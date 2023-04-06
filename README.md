@@ -25,8 +25,12 @@
 
 
 ### MyBlog  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:START -->
+- [Docker多层镜像](https://blog.baiyz.top/posts/12184903/)
+- [快速查看Docker配置的已登陆用户账户密码](https://blog.baiyz.top/posts/e7809bf5/)
+- [Git常用命令](https://blog.baiyz.top/posts/caff8000/)
+- [Linux设置SSH远程无密码登录](https://blog.baiyz.top/posts/1400a4d6/)
+- [GhatGPT](https://blog.baiyz.top/posts/1b002374/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
