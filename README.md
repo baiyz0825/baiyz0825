@@ -1,7 +1,12 @@
 <div align="center">
 <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" align="center" style="width: 100%" />
 </div>  
-  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=baiyz0825&&style=flat-square" align="center" />
+</div>  
+
+<br />
 
 ### *<div align="center">I Just graduated from university, currently mainly engaged in back-end development, many technology stacks still need to be deeply learned and understood</div>*  
   
@@ -98,14 +103,8 @@
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=baiyz0825&&style=flat-square" align="center" />
-</div>  
-
-<br />
-
-----
-
 ![](./profile-3d-contrib/profile-season-animate.svg)
+ 
+----
 
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
