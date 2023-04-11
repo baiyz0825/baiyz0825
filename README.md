@@ -103,6 +103,6 @@
 </div>  
 
 <br />
-
+![](./profile-3d-contrib/profile-season-animate.svg)
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
