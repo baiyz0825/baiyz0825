@@ -32,10 +32,10 @@
 ### MyBlog  
 <!-- BLOG-POST-LIST:START -->
 - [Docker多层镜像](https://blog.baiyz.top/posts/12184903/)
+- [SpringMVC笔记](https://blog.baiyz.top/posts/e545fed0/)
+- [Java注解原理与使用](https://blog.baiyz.top/posts/1c4d87ee/)
 - [Golang-GMP调度器](https://blog.baiyz.top/posts/a2ddeff2/)
 - [一键安装Openresty](https://blog.baiyz.top/posts/d6eb6841/)
-- [快速查看Docker配置的已登陆用户账户密码](https://blog.baiyz.top/posts/e7809bf5/)
-- [Git常用命令](https://blog.baiyz.top/posts/caff8000/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
