@@ -32,10 +32,10 @@
 ### MyBlog  
 <!-- BLOG-POST-LIST:START -->
 - [Docker多层镜像](https://blog.baiyz.top/posts/12184903/)
+- [Mysql-dump使用](https://blog.baiyz.top/posts/ae3dcc3e/)
+- [Mysql8 密码重置](https://blog.baiyz.top/posts/999f0a1b/)
 - [SpringMVC笔记](https://blog.baiyz.top/posts/e545fed0/)
 - [Java注解原理与使用](https://blog.baiyz.top/posts/1c4d87ee/)
-- [Golang-GMP调度器](https://blog.baiyz.top/posts/a2ddeff2/)
-- [一键安装Openresty](https://blog.baiyz.top/posts/d6eb6841/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
