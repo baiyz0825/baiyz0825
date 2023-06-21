@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" align="center" style="width: 100%" />
+<img src="./background/sun.jpg" align="center" style="width: 100%" />
 </div>  
 
 <div align="center">
