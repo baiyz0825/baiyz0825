@@ -11,7 +11,7 @@
 ### *<div align="center">Currently mainly engaged in back-end development, many technology stacks still need to be deeply learned and understood</div>*  
   
 
--  💻 目前正在 working on   [头歌实践平台实训项目（Go简单微服务）基于Go-zero构建项目]([https://github.com/baiyz0825/corp-wechat-gptbot](https://github.com/baiyz0825/educoder-go-micro_service-by-go-zero))  
+-  💻 目前正在 working on   [头歌实践平台实训项目（Go简单微服务）基于Go-zero构建项目](https://github.com/baiyz0825/educoder-go-micro_service-by-go-zero)
   
 
 - 🤔 正在学习 [K8S](https://kubernetes.io/zh-cn/)、[Github Action](https://docs.github.com/zh/actions)、[Golang](https://golang.google.cn/)、MicroServices  
