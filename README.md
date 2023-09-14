@@ -32,10 +32,10 @@
 ### MyBlog  
 <!-- BLOG-POST-LIST:START -->
 - [Docker多层镜像](https://blog.baiyz.top/posts/12184903/)
+- [Linux安装Docker支持Nvidia显卡](https://blog.baiyz.top/posts/4bbed4a6/)
 - [Mysql-dump使用](https://blog.baiyz.top/posts/ae3dcc3e/)
 - [Mysql8 密码重置](https://blog.baiyz.top/posts/999f0a1b/)
 - [SpringMVC笔记](https://blog.baiyz.top/posts/e545fed0/)
-- [Java注解原理与使用](https://blog.baiyz.top/posts/1c4d87ee/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
