@@ -33,9 +33,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Docker多层镜像](https://blog.baiyz.top/posts/12184903/)
 - [Linux安装Docker支持Nvidia显卡](https://blog.baiyz.top/posts/4bbed4a6/)
+- [SpringBoot 整合Redis Luttuce链接池](https://blog.baiyz.top/posts/513a81f1/)
 - [Mysql-dump使用](https://blog.baiyz.top/posts/ae3dcc3e/)
 - [Mysql8 密码重置](https://blog.baiyz.top/posts/999f0a1b/)
-- [SpringMVC笔记](https://blog.baiyz.top/posts/e545fed0/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
