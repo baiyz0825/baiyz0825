@@ -32,10 +32,10 @@
 ### MyBlog  
 <!-- BLOG-POST-LIST:START -->
 - [Docker多层镜像](https://blog.baiyz.top/posts/12184903/)
+- [SSH免密码登陆](https://blog.baiyz.top/posts/1e67cdab/)
 - [Goland开发爆红但是引用对象存在](https://blog.baiyz.top/posts/7f467d36/)
 - [Linux安装Docker支持Nvidia显卡](https://blog.baiyz.top/posts/4bbed4a6/)
 - [SpringBoot 整合Redis Luttuce链接池](https://blog.baiyz.top/posts/513a81f1/)
-- [Mysql-dump使用](https://blog.baiyz.top/posts/ae3dcc3e/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
