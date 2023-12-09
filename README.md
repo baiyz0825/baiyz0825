@@ -32,10 +32,10 @@
 ### MyBlog  
 <!-- BLOG-POST-LIST:START -->
 - [Docker多层镜像](https://blog.baiyz.top/posts/12184903/)
+- [LXC容器设置时区](https://blog.baiyz.top/posts/e03015ac/)
 - [Golang Json Marshal引起的转义问题](https://blog.baiyz.top/posts/e3e43f73/)
 - [SSH免密码登陆](https://blog.baiyz.top/posts/1e67cdab/)
 - [Goland开发爆红但是引用对象存在](https://blog.baiyz.top/posts/7f467d36/)
-- [Linux安装Docker支持Nvidia显卡](https://blog.baiyz.top/posts/4bbed4a6/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
